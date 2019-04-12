@@ -8,7 +8,7 @@ Microbiology Graduate Student
 
 <div id="webaddress">
 <a href="francoeur@wisc.edu">francoeur@wisc.edu</a>
-| <a href="cfrancoeur.github.io">my website</a>
+| <a href="cfrancoeur.github.io">cfrancoeur.github.io</a>
 </div>
 -----
 ## Education
@@ -78,7 +78,7 @@ Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & N
 
 
 ## Professional Development
-1.`August-September 2018` **[Ant Course](https://www.calacademy.org/scientists/ant-course)** French Guiana, Nouragues Research Station
+1.`August-Sept 2018` **[Ant Course](https://www.calacademy.org/scientists/ant-course)** French Guiana, Nouragues Research Station
  
 2.`May 2017` **Anvi'o Workshop** UW-Madison
 
@@ -86,70 +86,63 @@ Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & N
 
 4.`November 2016` **Microbiota Processing in mothur** UW-Madison
 
-## Teaching & Mentoring
-**Currie Lab Mentoring**
-June 2017-present
-> Graduate Student Mentor for PhD rotation students and undergraduate students in the Currie lab   
->**Jennifer Koehler:** REU student, Summer 2018. Lipid Production of *Streptomyces* on Conversion Residue.  
-> **Donny Hoang:** MDTP rotation student, January 2018. Inhibition of *Escovopsis* by *Burkholderia*.  
-> **Josh Daniels:** Undergraduate student, Summer 2017-May 2018. Investigation of Bee-Associated *Streptomyces* species and their ability to produce lipids.    
-> **Laura Williams:** Undergraduate student, Fall 2017-May 2018. Characterization of *Burkholderia sp.* isolated from the fungus gardens of fungus farming ants.  
+## Teaching & Mentoring ##
+### Currie Lab ###
+  
+>`Summer 2018`**Jennifer Koehler:** REU student. Lipid Production of *Streptomyces* on Conversion Residue.  
+>`January 2018` **Donny Hoang:** MDTP rotation student. Inhibition of *Escovopsis* by *Burkholderia*.  
+>`2017-2018` **Josh Daniels:** Undergraduate student, Summer 2017-May 2018. Investigation of Bee-Associated *Streptomyces* species and their ability to produce lipids.    
+> `2017-2018`**Laura Williams:** Undergraduate student, Fall 2017-May 2018. Characterization of *Burkholderia sp.* isolated from the fungus gardens of fungus farming ants.  
 
-**Assistant Teacher**
-September 2017 - December 2017
-> Assistant teacher for Pathogenic Bacteriology with professor Dr. Joe Dillard  
->Duties include giving three lectures(Antibiotics + Disinfection, Clostridia, Treponema and Borrelia), writing and grading exams, and meeting with students
+### Teaching ###
+**Assistant Teacher** `September 2017 - December 2017`
+>Assistant teacher for Pathogenic Bacteriology with professor Dr. Joe Dillard  
+>Duties include giving three lectures (Antibiotics + Disinfection, Clostridia, Treponema and Borrelia), writing and grading exams, and meeting with students
 
-**Undergraduate Teaching Assistant**
-January 2016 - May 2016
-> Teacher's assistant for Research Applications in the Life Sciences (HLSC377). Duties included weekly office hours, grading assignments, and aiding discussions about scientific papers
+**Undergraduate Teaching Assistant** `January 2016 - May 2016` 
+>Teacher's assistant for Research Applications in the Life Sciences (HLSC377). Duties included weekly office hours, grading assignments, and aiding discussions about scientific papers
 
 ## Awards
-1. Dean's List and Academic Honors - University of Maryland (Fall 2012-Spring 2016)
+1.`June 2019` UW-Madison Student Research Travel Grant - Conference, $1200  
 
-2. Senator Pinsky's Senatorial Scholarship (August 2012-May 2013)
+2.`Fall 2012-Spring 2016` Dean's List and Academic Honors - University of Maryland 
 
-3. Delegate Anne Healey Scholarship (August 2012-May 2013)
+3.`August 2012-May 2013` Senator Pinsky's Senatorial Scholarship
+
+4.`August 2012-May 2013` Delegate Anne Healey Scholarship
 
 
 ## Leadership & Volunteering
+**UW-Madison Women's Club Ultimate Frisbee B Team Coach** `2018-2019`  
+
 **Junior Science Cafe** [(Junior Science Cafe Program)](https://docs.google.com/document/d/11FSEpWUF7sLEIooUIxEXPve3L7TGOv6X2-wiq6UDsKY/edit)
->Fall 2017
+`Fall 2017`
 > Outreach program that brings high school and middle school students and scientists together to discuss careers in science  
 >run by the [Morgridge Institute for Research](https://morgridge.org/)
 
-**Women's Maryland Club Ultimate B Team Captain**
-August 2014-May 2016
+**Women's Maryland Club Ultimate B Team Captain** `2014-2016`
 > Organize practices and tournaments in order to grow the women's ultimate community
 
-**Women's Maryland Club Ultimate Treasurer**
-August 2013-May 2016
+**Women's Maryland Club Ultimate Treasurer** `2013-2016`
 > Manage funds for women's club ultimate
 
-**Alternative Spring Break-Chesapeake Bay**
-Spring Break 2013
+**Alternative Spring Break-Chesapeake Bay** `Spring Break 2013`
 > Engaged in tree planting, urban farming, river clean up and oyster restoration
 
 ## Organizations/Committees
-**Student Invited Speaker Committee at UW-Madison**
-Fall 2017 - present
-> A committee of students who coordinate a visit from a research outside of UW-Madison
-
-**Computational Biology, Ecology, & Evolution Group at UW-Madison** [(ComBEE)](https://combee-uw-madison.github.io)
-> Study group for R and Python specifically for students in the biological sciences
-
-
+**Student Invited Speaker Committee at UW-Madison** `2017-Present`
+> A committee of students who coordinate visits from prominent researchers outside of UW-Madison
 
 ## Relevant Classes
-#### 2017
+### 2017
 CS 301: Introduction to Data Programming (Python)  
 MICROBIO526: Microbial Physiology  
 MICROBIO875: Bioinformatics for Microbiologists  
 
-#### 2016
+### 2016
 MICROBIO655: Biology and Genetics of Filamentous Fungi  
 ENST432: Environmental Microbiology  
 
-#### 2015
+### 2015
 BSCI467: Freshwater Biology   
 BSCI424: Pathogenic Microbiology
