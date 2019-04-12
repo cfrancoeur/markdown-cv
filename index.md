@@ -45,7 +45,7 @@ August 2011 - May 2012
 >High School Research Intern in the Invasive Insect Biocontrol and Behavior laboratory of Dr. Phyllis Martin  
 >Investigated bacterial strains pathogenic to the brown marmorated stink bug using 16S rRNA sequencing, Biolog, and phenotypic tests (e.g. optimal growth conditions, hemolytic activity, urease production)  
 
-## Publications
+## Publications  
 
 1. Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & Nou, X. (2016). Ralstonia insidiosa serves as bridges in biofilm formation by foodborne pathogens Listeria monocytogenes, Salmonella enterica, and Enterohemorrhagic Escherichia coli. Food Control, 65, 14–20.
 
