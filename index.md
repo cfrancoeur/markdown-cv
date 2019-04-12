@@ -4,9 +4,12 @@ title: Charlotte Francoeur's CV
 ---
 
 # Charlotte Francoeur
+Microbiology Graduate Student
 
-<francoeur@wisc.edu> | http://cfrancoeur.github.io
-
+<div id="webaddress">
+<a href="francoeur@wisc.edu">francoeur@wisc.edu</a>
+| <a href="cfrancoeur.github.io">my website</a>
+</div>
 -----
 ## Education
 
@@ -45,34 +48,43 @@ August 2011 - May 2012
 >High School Research Intern in the Invasive Insect Biocontrol and Behavior laboratory of Dr. Phyllis Martin  
 >Investigated bacterial strains pathogenic to the brown marmorated stink bug using 16S rRNA sequencing, Biolog, and phenotypic tests (e.g. optimal growth conditions, hemolytic activity, urease production)  
 
-## Publications
+## Publications  
 
-1. Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & Nou, X. (2016). Ralstonia insidiosa serves as bridges in biofilm formation by foodborne pathogens Listeria monocytogenes, Salmonella enterica, and Enterohemorrhagic Escherichia coli. Food Control, 65, 14–20.
+Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & Nou, X. (2016). Ralstonia insidiosa serves as bridges in biofilm formation by foodborne pathogens Listeria monocytogenes, Salmonella enterica, and Enterohemorrhagic Escherichia coli. Food Control, 65, 14–20.
 
-## Presentations
-1. **Francoeur, C.B. & Currie, C.** Characterizing microbial associations in leaf-cutter ant fungus gardens. **MDTP Student Seminar Series Talk** at University of Wisconsin - Madison. October 2018.
 
-2. **Francoeur, C.B.**, Hoang, D., Carlos, C., & Currie, C. Potential roles of Burkholderia in the fungus-farming ant system. **Poster Presentation** at the Beneficial Microbes Meeting. July 2018.
-3. **Francoeur, C.B.**, Khadempour, L., Currie, C. Microbial tolerance of plant defense compounds in the fungus-farming ant system. **Poster Presentation** at Madison Microbiome Meeting. April 2018.  
+## Oral Presentations
 
-4. **Francoeur, C.B.**, Khadempour, L., Currie, C. Microbial tolerance of plant defense compounds in the fungus-farming ant system. **Poster Presentation** at the DOE Joint Genome Institute Genomics of Energy and Environment Meeting. March 2018.
+1.`October 2018` **Francoeur, C.B.** & Currie, C. Characterizing microbial associations in leaf-cutter ant fungus gardens. **MDTP Student Seminar Series Talk** at University of Wisconsin - Madison. 
 
-5. **Francoeur, C.B.**, Nazario-Toole, A., & Wu., L. Genome Wide Assocation Study on Phagocytosis of Zymosan in Drosophila melanogaster. **Senior Thesis Talk** at University of Maryland - College Park. May 2016.
+2.`May 2016` **Francoeur, C.B.**, Nazario-Toole, A., & Wu., L. Genome Wide Assocation Study on Phagocytosis of Zymosan in Drosophila melanogaster. **Senior Thesis Talk** at University of Maryland - College Park.
 
-6. **Francoeur, C.B.**, Nazario-Toole, A., & Wu., L. Genome Wide Assocation Study on Phagocytosis of Zymosan in Drosophila melanogaster. **ILS Student Seminar Series** at University of Maryland - College Park. March 2016.
+3.`March 2016` **Francoeur, C.B.**, Nazario-Toole, A., & Wu., L. Genome Wide Assocation Study on Phagocytosis of Zymosan in Drosophila melanogaster. **ILS Student Seminar Series** at University of Maryland - College Park. 
 
-7. **Francoeur, C.B.** & Martin, P. Identifying Bacteria From Stink Bugs. **Poster Presentation** at Eleanor Roosevelt High School Research Symposium. April 2012.
+4.`April 2012` **Francoeur, C.B.**, Price, T., & Martin, P. Isolation and Identification of Pathogenic Bacteria From Stink Bugs. **Research Symposium Talk** at Eleanor Roosevelt High School. .
 
-8. **Francoeur, C.B.**, Price, T., & Martin, P. Isolation and Identification of Pathogenic Bacteria From Stink Bugs. **Research Symposium Talk** at Eleanor Roosevelt High School. April 2012.
+## Poster Presentations
+
+1.`November 2018` **Francoeur, C.B.**, Khadempour, L., Currie, C. Microbial tolerance of plant defense compounds in the fungus-farming ant system. **Poster Presentation** at the 8th Annual Plant Sciences Symposium. 
+
+2.`July 2018` **Francoeur, C.B.**, Hoang, D., Carlos, C., & Currie, C. Potential roles of Burkholderia in the fungus-farming ant system. **Poster Presentation** at the Beneficial Microbes Meeting. 
+
+3.`April 2018` **Francoeur, C.B.**, Khadempour, L., Currie, C. Microbial tolerance of plant defense compounds in the fungus-farming ant system. **Poster Presentation** at Madison Microbiome Meeting.   
+
+4.`March 2018` **Francoeur, C.B.**, Khadempour, L., Currie, C. Microbial tolerance of plant defense compounds in the fungus-farming ant system. **Poster Presentation** at the DOE Joint Genome Institute Genomics of Energy and Environment Meeting. 
+
+5.`April 2012` **Francoeur, C.B.** & Martin, P. Identifying Bacteria From Stink Bugs. **Poster Presentation** at Eleanor Roosevelt High School Research Symposium. 
+
+
 
 ## Professional Development
-1. **[Ant Course](https://www.calacademy.org/scientists/ant-course)** French Guiana, Nouragues Research Station, August - September 2018
+1.`August-September 2018` **[Ant Course](https://www.calacademy.org/scientists/ant-course)** French Guiana, Nouragues Research Station
  
-2. **Anvi'o Workshop** UW-Madison, May 2017
+2.`May 2017` **Anvi'o Workshop** UW-Madison
 
-3. **Microbiota Analysis in R** UW-Madison, November 2016
+3.`November 2016` **Microbiota Analysis in R** UW-Madison
 
-4. **Microbiota Processing in mothur** UW-Madison, November 2016
+4.`November 2016` **Microbiota Processing in mothur** UW-Madison
 
 ## Teaching & Mentoring
 **Currie Lab Mentoring**
