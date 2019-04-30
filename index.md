@@ -8,7 +8,11 @@ Microbiology Ph.D. Candidate
 
 <div id="webaddress">
 <a href="francoeur@wisc.edu">francoeur@wisc.edu</a>
+<<<<<<< HEAD
 | <a href="https://cfrancoeur.github.io">cfrancoeur.github.io</a>
+=======
+| <a href="cfrancoeur.github.io">cfrancoeur.github.io</a>
+>>>>>>> 1783c321fe0a4615a7b4156f0d80798183eb115d
 </div>
 -----
 ## Education
@@ -84,6 +88,7 @@ Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & N
 
 ## Teaching & Mentoring ##
 ### Currie Lab ###
+<<<<<<< HEAD
 
 >`2018-Present`**Olivia Panthofer** Undergraduate Student. Isolation of phage from fungus gardens.  
 >`Summer 2018`**Jennifer Koehler:** REU student. Lipid Production of *Streptomyces* on Conversion Residue.  
@@ -96,6 +101,19 @@ Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & N
 >Assistant teacher for Pathogenic Bacteriology with Professor Joe Dillard  
 >Duties include giving three lectures (Antibiotics + Disinfection, Clostridia, Treponema and Borrelia), writing and grading exams, and meeting with students
 
+=======
+  
+>`Summer 2018`**Jennifer Koehler:** REU student. Lipid Production of *Streptomyces* on Conversion Residue.  
+>`January 2018` **Donny Hoang:** MDTP rotation student. Inhibition of *Escovopsis* by *Burkholderia*.  
+>`2017-2018` **Josh Daniels:** Undergraduate student, Summer 2017-May 2018. Investigation of Bee-Associated *Streptomyces* species and their ability to produce lipids.    
+> `2017-2018`**Laura Williams:** Undergraduate student, Fall 2017-May 2018. Characterization of *Burkholderia sp.* isolated from the fungus gardens of fungus farming ants.  
+
+### Teaching ###
+**Assistant Teacher** `September 2017 - December 2017`
+>Assistant teacher for Pathogenic Bacteriology with professor Dr. Joe Dillard  
+>Duties include giving three lectures (Antibiotics + Disinfection, Clostridia, Treponema and Borrelia), writing and grading exams, and meeting with students
+
+>>>>>>> 1783c321fe0a4615a7b4156f0d80798183eb115d
 **Undergraduate Teaching Assistant** `January 2016 - May 2016` 
 >Teacher's assistant for Research Applications in the Life Sciences (HLSC377). Duties included weekly office hours, grading assignments, and aiding discussions about scientific papers
 
@@ -109,7 +127,6 @@ Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & N
 4.`August 2012-May 2013` Senator Pinsky's Senatorial Scholarship
 
 5.`August 2012-May 2013` Delegate Anne Healey Scholarship
-
 
 ## Leadership & Volunteering
 **UW-Madison Women's Club Ultimate Frisbee B Team Coach** `2018-2019`  
