@@ -1,43 +1,42 @@
 ---
 layout: cv
-title: Charlotte Francoeur's CV
+title: 
 ---
 
 # Charlotte Francoeur
-Microbiology Graduate Student
+Microbiology Ph.D. Candidate
 
 <div id="webaddress">
 <a href="francoeur@wisc.edu">francoeur@wisc.edu</a>
-| <a href="cfrancoeur.github.io">cfrancoeur.github.io</a>
+| <a href="https://cfrancoeur.github.io">cfrancoeur.github.io</a>
 </div>
 -----
 ## Education
 
-**University of Wisconsin - Madison**  
-Microbiology Doctoral Training Program, Class of 2016  
+**University of Wisconsin - Madison**  `August 2016 - Present`  
+Microbiology Doctoral Training Program  
 Laboratory of Dr. Cameron Currie, Department of Bacteriology  
 GPA: 4.0
 
-**University of Maryland - College Park** 
+**University of Maryland - College Park**    `August 2012 - May 2016`  
 Bachelor of Science in Microbiology with Black Women's Studies Minor  
-Graduation: May 2016  
-Cumulative GPA: 3.905  
+GPA: 3.905/4.0  
+Cum Laude Latin Honors   
 Integrated Life Sciences Honors  
 Cell Biology and Molecular Genetics Departmental Honors  
-Cum Laude Latin Honors  
+ 
 
 ## Research Experience
 ### Current
 **[Currie Lab](https://currielab.wisc.edu/), University of Wisconsin-Madison** `January 2017-Present`
->Graduate research assistant in the laboratory of Dr. Cameron Currie investigating bacterial and viral associations in fungus-farming ants (tribe: Attini). More details about my research [here](https://cfrancoeur.github.io/research/).  
-
+>Graduate research assistant in the laboratory of Dr. Cameron Currie investigating bacterial and viral associations in fungus-farming ants (tribe: Attini). You can find more details about my research at cfrancoeur.github.io/research/  
 ### Past
 **Wu Lab, University of Maryland - College Park** `September 2014 - July 2016`  
 >Institute for Bioscience and Biotechnology Research Laboratory  
 >Volunteer undergraduate research assistant in the laboratory of Dr. Louisa Wu   
->Used the [Drosophila Genetics Research Panel](http://dgrp2.gnets.ncsu.edu/) to perform a genome-wide association study(GWAS) to find genes associated with the phagocytosis of fungi in *Drosophila melanogaster*   
+>Used the [Drosophila Genetics Research Panel](http://dgrp2.gnets.ncsu.edu/) to perform a genome-wide association study (GWAS) to find genes associated with the phagocytosis of fungi in *Drosophila melanogaster*   
 
-**Nou Lab, United States Department of Agriculture - Agricultural Research Service** `August 2012 - May 2014` 
+**Nou Lab, United States Department of Agriculture - Agricultural Research Service** `August 2012 - May 2014`  
 >Biological Science Aid in the Environmental Microbial and Food Safety laboratory of Dr. Xiangwu Nou  
 >Investigated biofilm formation between *Ralstonia insidiosa* and foodborne pathogens, *Escherichia coli*, *Salmonella spp.*, and *Listeria monocytogenes*  
 >Resulted in a publication (see below)
@@ -50,7 +49,6 @@ Cum Laude Latin Honors
 
 Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & Nou, X. (2016). Ralstonia insidiosa serves as bridges in biofilm formation by foodborne pathogens Listeria monocytogenes, Salmonella enterica, and Enterohemorrhagic Escherichia coli. Food Control, 65, 14–20.
 
-
 ## Oral Presentations
 
 1.`October 2018` **Francoeur, C.B.** & Currie, C. Characterizing microbial associations in leaf-cutter ant fungus gardens. **MDTP Student Seminar Series Talk** at University of Wisconsin - Madison. 
@@ -59,7 +57,7 @@ Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & N
 
 3.`March 2016` **Francoeur, C.B.**, Nazario-Toole, A., & Wu., L. Genome Wide Assocation Study on Phagocytosis of Zymosan in Drosophila melanogaster. **ILS Student Seminar Series** at University of Maryland - College Park. 
 
-4.`April 2012` **Francoeur, C.B.**, Price, T., & Martin, P. Isolation and Identification of Pathogenic Bacteria From Stink Bugs. **Research Symposium Talk** at Eleanor Roosevelt High School. .
+4.`April 2012` **Francoeur, C.B.**, Price, T., & Martin, P. Isolation and Identification of Pathogenic Bacteria From Stink Bugs. **Research Symposium Talk** at Eleanor Roosevelt High School.
 
 ## Poster Presentations
 
@@ -86,28 +84,31 @@ Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & N
 
 ## Teaching & Mentoring ##
 ### Currie Lab ###
-  
+
+>`2018-Present`**Olivia Panthofer** Undergraduate Student. Isolation of phage from fungus gardens.  
 >`Summer 2018`**Jennifer Koehler:** REU student. Lipid Production of *Streptomyces* on Conversion Residue.  
 >`January 2018` **Donny Hoang:** MDTP rotation student. Inhibition of *Escovopsis* by *Burkholderia*.  
->`2017-2018` **Josh Daniels:** Undergraduate student, Summer 2017-May 2018. Investigation of Bee-Associated *Streptomyces* species and their ability to produce lipids.    
-> `2017-2018`**Laura Williams:** Undergraduate student, Fall 2017-May 2018. Characterization of *Burkholderia sp.* isolated from the fungus gardens of fungus farming ants.  
+>`2017-2018` **Josh Daniels:** Undergraduate student. Investigation of Bee-Associated *Streptomyces* species and their ability to produce lipids.    
+> `2017-2018`**Laura Williams:** Undergraduate student. Characterization of *Burkholderia sp.* isolated from the fungus gardens of fungus farming ants.  
 
 ### Teaching ###
 **Assistant Teacher** `September 2017 - December 2017`
->Assistant teacher for Pathogenic Bacteriology with professor Dr. Joe Dillard  
+>Assistant teacher for Pathogenic Bacteriology with Professor Joe Dillard  
 >Duties include giving three lectures (Antibiotics + Disinfection, Clostridia, Treponema and Borrelia), writing and grading exams, and meeting with students
 
 **Undergraduate Teaching Assistant** `January 2016 - May 2016` 
 >Teacher's assistant for Research Applications in the Life Sciences (HLSC377). Duties included weekly office hours, grading assignments, and aiding discussions about scientific papers
 
 ## Awards
-1.`June 2019` UW-Madison Student Research Travel Grant - Conference, $1200  
+1.`June 2019` UW-Madison Student Research Travel Grant - Conference, $1200
 
-2.`Fall 2012-Spring 2016` Dean's List and Academic Honors - University of Maryland 
+2.`April 2019` UW-Madison CALS Dr. Leonard E. Mortenson Graduate Scholarship, $1250
 
-3.`August 2012-May 2013` Senator Pinsky's Senatorial Scholarship
+3.`Fall 2012-Spring 2016` Dean's List and Academic Honors - University of Maryland 
 
-4.`August 2012-May 2013` Delegate Anne Healey Scholarship
+4.`August 2012-May 2013` Senator Pinsky's Senatorial Scholarship
+
+5.`August 2012-May 2013` Delegate Anne Healey Scholarship
 
 
 ## Leadership & Volunteering
