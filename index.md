@@ -8,11 +8,8 @@ Microbiology Ph.D. Candidate
 
 <div id="webaddress">
 <a href="francoeur@wisc.edu">francoeur@wisc.edu</a>
-<<<<<<< HEAD
 | <a href="https://cfrancoeur.github.io">cfrancoeur.github.io</a>
-=======
-| <a href="cfrancoeur.github.io">cfrancoeur.github.io</a>
->>>>>>> 1783c321fe0a4615a7b4156f0d80798183eb115d
+
 </div>
 -----
 ## Education
@@ -40,12 +37,12 @@ Cell Biology and Molecular Genetics Departmental Honors
 >Volunteer undergraduate research assistant in the laboratory of Dr. Louisa Wu   
 >Used the [Drosophila Genetics Research Panel](http://dgrp2.gnets.ncsu.edu/) to perform a genome-wide association study (GWAS) to find genes associated with the phagocytosis of fungi in *Drosophila melanogaster*   
 
-**Nou Lab, United States Department of Agriculture - Agricultural Research Service** `August 2012 - May 2014`  
+**Nou Lab, USDA-ARS** `August 2012 - May 2014`  
 >Biological Science Aid in the Environmental Microbial and Food Safety laboratory of Dr. Xiangwu Nou  
 >Investigated biofilm formation between *Ralstonia insidiosa* and foodborne pathogens, *Escherichia coli*, *Salmonella spp.*, and *Listeria monocytogenes*  
 >Resulted in a publication (see below)
 
-**Martin Lab, United States Department of Agriculture - Agricultural Research Service**  `August 2011 - May 2012`  
+**Martin Lab, USDA-ARS**  `August 2011 - May 2012`  
 >High School Research Intern in the Invasive Insect Biocontrol and Behavior laboratory of Dr. Phyllis Martin  
 >Investigated bacterial strains pathogenic to the brown marmorated stink bug using 16S rRNA sequencing, Biolog, and phenotypic tests (e.g. optimal growth conditions, hemolytic activity, urease production)  
 
