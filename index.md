@@ -131,7 +131,10 @@ Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & N
 > Engaged in tree planting, urban farming, river clean up and oyster restoration
 
 ## Organizations/Committees
-**Student Invited Speaker Committee at UW-Madison** `2017-Present`
+**MDTP Steering Committee** `2019-Present`  
+> Attend monthly faculty meeting to give voice to students' concerns and opinions  
+
+**MDTP Student Invited Speaker Committee** `2017-2019`
 > A committee of students who coordinate visits from prominent researchers outside of UW-Madison
 
 ## Relevant Classes
