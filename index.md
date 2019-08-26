@@ -102,19 +102,21 @@ Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & N
 **Undergraduate Teaching Assistant** `January 2016 - May 2016` 
 >Teacher's assistant for Research Applications in the Life Sciences (HLSC377). Duties included weekly office hours, grading assignments, and aiding discussions about scientific papers
 
-## Awards
-1.`June 2019` UW-Madison Student Research Travel Grant - Conference, $1200
+## Awards  
+1.`August 2019` O.N. Allen Soil and Environmental Microbiology Small Grant Recipient, $4000  
 
-2.`April 2019` UW-Madison CALS Dr. Leonard E. Mortenson Graduate Scholarship, $1250
+2.`June 2019` UW-Madison Student Research Travel Grant - Conference, $1200
 
-3.`Fall 2012-Spring 2016` Dean's List and Academic Honors - University of Maryland 
+3.`April 2019` UW-Madison CALS Dr. Leonard E. Mortenson Graduate Scholarship, $1250
 
-4.`August 2012-May 2013` Senator Pinsky's Senatorial Scholarship
+4.`Fall 2012-Spring 2016` Dean's List and Academic Honors - University of Maryland 
 
-5.`August 2012-May 2013` Delegate Anne Healey Scholarship
+5.`August 2012-May 2013` Senator Pinsky's Senatorial Scholarship
+
+6.`August 2012-May 2013` Delegate Anne Healey Scholarship
 
 ## Leadership & Volunteering
-**UW-Madison Women's Club Ultimate Frisbee B Team Coach** `2018-2019`  
+**UW-Madison Women's Club Ultimate Frisbee B Team Coach** `2018-Present`  
 
 **Junior Science Cafe** [(Junior Science Cafe Program)](https://docs.google.com/document/d/11FSEpWUF7sLEIooUIxEXPve3L7TGOv6X2-wiq6UDsKY/edit)
 `Fall 2017`
