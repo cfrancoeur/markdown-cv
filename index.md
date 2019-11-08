@@ -20,7 +20,7 @@ Laboratory of Dr. Cameron Currie, Department of Bacteriology
 GPA: 4.0/4.0  
 
 **University of Maryland - College Park**    `August 2012 - May 2016`  
-Bachelor of Science in Microbiology with Black Women's Studies Minor  
+Bachelor of Science in Microbiology with a Black Women's Studies Minor  
 GPA: 3.905/4.0  
 Cum Laude Latin Honors   
 Integrated Life Sciences Honors  
@@ -78,13 +78,15 @@ Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & N
 
 
 ## Professional Development
-1.`August-Sept 2018` **[Ant Course](https://www.calacademy.org/scientists/ant-course)** French Guiana, Nouragues Research Station
+1.`October 2019` **Active Learning Ambassadors Workshop** California State University, Northridge  
+
+2.`August-Sept 2018` **[Ant Course](https://www.calacademy.org/scientists/ant-course)** French Guiana, Nouragues Research Station
  
-2.`May 2017` **Anvi'o Workshop** UW-Madison
+3.`May 2017` **Anvi'o Workshop** UW-Madison
 
-3.`November 2016` **Microbiota Analysis in R** UW-Madison
+4.`November 2016` **Microbiota Analysis in R** UW-Madison
 
-4.`November 2016` **Microbiota Processing in mothur** UW-Madison
+5.`November 2016` **Microbiota Processing in mothur** UW-Madison
 
 ## Teaching & Mentoring ##
 ### Currie Lab ###
@@ -102,7 +104,7 @@ Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & N
 **Undergraduate Teaching Assistant** `January 2016 - May 2016` 
 >Teacher's assistant for Research Applications in the Life Sciences (HLSC377). Duties included weekly office hours, grading assignments, and aiding discussions about scientific papers
 
-## Awards  
+## Awards and Grants 
 1.`August 2019` O.N. Allen Soil and Environmental Microbiology Small Grant Recipient, $4000  
 
 2.`June 2019` UW-Madison Student Research Travel Grant - Conference, $1200
