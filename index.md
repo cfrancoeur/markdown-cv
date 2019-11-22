@@ -18,7 +18,7 @@ Microbiology Ph.D. Candidate
 Microbiology Doctoral Training Program  
 Laboratory of Dr. Cameron Currie, Department of Bacteriology  
 GPA: 4.0/4.0  
-2020 WISCIENCE Public Service Fellow
+2020 WISCIENCE Public Service Fellow  
 
 **University of Maryland - College Park**    `August 2012 - May 2016`  
 Bachelor of Science in Microbiology with a Black Women's Studies Minor  
@@ -67,7 +67,7 @@ Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & N
 ## Poster Presentations
 1.`November 2019` **Francoeur, C.B.**, Khadempour, L., Moreira-Soto, R.D., Gotting, K., Book, A.J., Pinto-Tomás, A.A., Keefover-Ring, K., & Currie, C.R. Bacteria contribute to plant secondary compound degradation in a generalist herbivore system. **Poster Presentation** at the 9th Annual UW-Madison Plant Sciences Symposium (Nov. 15) and the Entomological Society of America 2019 Conference (Nov. 18).  
 
-3.`June 2019` **Francoeur, C.B.**, Khadempour, L., Keefover-Ring, K., & Currie, C.R. Garden bacteria in fungus-farming ants can metabolize plant secondary compounds. **Poster Presentation** at the Gordon Research Seminar and Gordon Research Conference on Animal-Microbe Symbioses.
+2.`June 2019` **Francoeur, C.B.**, Khadempour, L., Keefover-Ring, K., & Currie, C.R. Garden bacteria in fungus-farming ants can metabolize plant secondary compounds. **Poster Presentation** at the Gordon Research Seminar and Gordon Research Conference on Animal-Microbe Symbioses.
 
 3.`November 2018` **Francoeur, C.B.**, Khadempour, L., Currie, C.R. Microbial tolerance of plant defense compounds in the fungus-farming ant system. **Poster Presentation** at the 8th Annual UW-Madison Plant Sciences Symposium. 
 
