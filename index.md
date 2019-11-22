@@ -18,6 +18,7 @@ Microbiology Ph.D. Candidate
 Microbiology Doctoral Training Program  
 Laboratory of Dr. Cameron Currie, Department of Bacteriology  
 GPA: 4.0/4.0  
+2020 WISCIENCE Public Service Fellow
 
 **University of Maryland - College Park**    `August 2012 - May 2016`  
 Bachelor of Science in Microbiology with a Black Women's Studies Minor  
@@ -51,29 +52,32 @@ Cell Biology and Molecular Genetics Departmental Honors
 Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & Nou, X. (2016). Ralstonia insidiosa serves as bridges in biofilm formation by foodborne pathogens Listeria monocytogenes, Salmonella enterica, and Enterohemorrhagic Escherichia coli. Food Control, 65, 14–20.
 
 ## Oral Presentations
-1.`June 2019` **Francoeur, C.B.**, Khadempour, L., Keefover-Ring, K., & Currie, C. Garden bacteria in fungus-farming ants can metabolize plant secondary compounds. **Selected Speaker** at the Gordon Research Seminar on Animal-Microbe Symbioses.  
+1.`November 2019` **Francoeur, C.B.**, Khadempour, L., Moreira-Soto, R.D., Gotting, K., Book, A.J., Pinto-Tomás, A.A., Keefover-Ring, K., & Currie, C.R. Bacteria contribute to plant secondary compound degradation in a generalist herbivore system. **Winner** of the **Lightning Talk Competition** at the 9th Annual UW-Madison Plant Sciences Symposium.    
 
-2.`October 2018` **Francoeur, C.B.** & Currie, C. Characterizing microbial associations in leaf-cutter ant fungus gardens. **MDTP Student Seminar Series Talk** at University of Wisconsin - Madison. 
+2.`June 2019` **Francoeur, C.B.**, Khadempour, L., Keefover-Ring, K., & Currie, C.R. Garden bacteria in fungus-farming ants can metabolize plant secondary compounds. **Selected Speaker** at the Gordon Research Seminar on Animal-Microbe Symbioses.  
 
-3.`May 2016` **Francoeur, C.B.**, Nazario-Toole, A., & Wu., L. Genome Wide Assocation Study on Phagocytosis of Zymosan in Drosophila melanogaster. **Senior Thesis Talk** at University of Maryland - College Park.
+3.`October 2018` **Francoeur, C.B.** & Currie, C.R. Characterizing microbial associations in leaf-cutter ant fungus gardens. **MDTP Student Seminar Series Talk** at University of Wisconsin - Madison. 
 
-4.`March 2016` **Francoeur, C.B.**, Nazario-Toole, A., & Wu., L. Genome Wide Assocation Study on Phagocytosis of Zymosan in Drosophila melanogaster. **ILS Student Seminar Series** at University of Maryland - College Park. 
+4.`May 2016` **Francoeur, C.B.**, Nazario-Toole, A., & Wu., L. Genome Wide Assocation Study on Phagocytosis of Zymosan in Drosophila melanogaster. **Senior Thesis Talk** at University of Maryland - College Park.
 
-5.`April 2012` **Francoeur, C.B.**, Price, T., & Martin, P. Isolation and Identification of Pathogenic Bacteria From Stink Bugs. **Research Symposium Talk** at Eleanor Roosevelt High School.
+5.`March 2016` **Francoeur, C.B.**, Nazario-Toole, A., & Wu., L. Genome Wide Assocation Study on Phagocytosis of Zymosan in Drosophila melanogaster. **ILS Student Seminar Series** at University of Maryland - College Park. 
+
+6.`April 2012` **Francoeur, C.B.**, Price, T., & Martin, P. Isolation and Identification of Pathogenic Bacteria From Stink Bugs. **Research Symposium Talk** at Eleanor Roosevelt High School.
 
 ## Poster Presentations
+1.`November 2019` **Francoeur, C.B.**, Khadempour, L., Moreira-Soto, R.D., Gotting, K., Book, A.J., Pinto-Tomás, A.A., Keefover-Ring, K., & Currie, C.R. Bacteria contribute to plant secondary compound degradation in a generalist herbivore system. **Poster Presentation** at the 9th Annual UW-Madison Plant Sciences Symposium (Nov. 15) and the Entomological Society of America 2019 Conference (Nov. 18).  
 
-1.`June 2019` **Francoeur, C.B.**, Khadempour, L., Keefover-Ring, K., & Currie, C. Garden bacteria in fungus-farming ants can metabolize plant secondary compounds. **Poster Presentation** at the Gordon Research Seminar and Gordon Research Conference on Animal-Microbe Symbioses.
+3.`June 2019` **Francoeur, C.B.**, Khadempour, L., Keefover-Ring, K., & Currie, C.R. Garden bacteria in fungus-farming ants can metabolize plant secondary compounds. **Poster Presentation** at the Gordon Research Seminar and Gordon Research Conference on Animal-Microbe Symbioses.
 
-2.`November 2018` **Francoeur, C.B.**, Khadempour, L., Currie, C. Microbial tolerance of plant defense compounds in the fungus-farming ant system. **Poster Presentation** at the 8th Annual Plant Sciences Symposium. 
+3.`November 2018` **Francoeur, C.B.**, Khadempour, L., Currie, C.R. Microbial tolerance of plant defense compounds in the fungus-farming ant system. **Poster Presentation** at the 8th Annual UW-Madison Plant Sciences Symposium. 
 
-3.`July 2018` **Francoeur, C.B.**, Hoang, D., Carlos, C., & Currie, C. Potential roles of Burkholderia in the fungus-farming ant system. **Poster Presentation** at the Beneficial Microbes Meeting. 
+4.`July 2018` **Francoeur, C.B.**, Hoang, D., Carlos, C., & Currie, C.R. Potential roles of Burkholderia in the fungus-farming ant system. **Poster Presentation** at the Beneficial Microbes Meeting. 
 
-4.`April 2018` **Francoeur, C.B.**, Khadempour, L., Currie, C. Microbial tolerance of plant defense compounds in the fungus-farming ant system. **Poster Presentation** at Madison Microbiome Meeting.   
+5.`April 2018` **Francoeur, C.B.**, Khadempour, L., Currie, C.R. Microbial tolerance of plant defense compounds in the fungus-farming ant system. **Poster Presentation** at Madison Microbiome Meeting.   
 
-5.`March 2018` **Francoeur, C.B.**, Khadempour, L., Currie, C. Microbial tolerance of plant defense compounds in the fungus-farming ant system. **Poster Presentation** at the DOE Joint Genome Institute Genomics of Energy and Environment Meeting. 
+6.`March 2018` **Francoeur, C.B.**, Khadempour, L., Currie, C.R. Microbial tolerance of plant defense compounds in the fungus-farming ant system. **Poster Presentation** at the DOE Joint Genome Institute Genomics of Energy and Environment Meeting. 
 
-6.`April 2012` **Francoeur, C.B.** & Martin, P. Identifying Bacteria From Stink Bugs. **Poster Presentation** at Eleanor Roosevelt High School Research Symposium. 
+7.`April 2012` **Francoeur, C.B.** & Martin, P. Identifying Bacteria From Stink Bugs. **Poster Presentation** at Eleanor Roosevelt High School Research Symposium. 
 
 
 
