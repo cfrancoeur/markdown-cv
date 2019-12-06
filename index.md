@@ -49,6 +49,8 @@ Cell Biology and Molecular Genetics Departmental Honors
 
 ## Publications  
 
+**Francoeur, C.B.**, Khadempour, L., Gotting, K., Moreira-Soto, R.D., Book, A.J., Pinto-Tomás, A.A., Keefover-Ring, K., Currie, C.R. Bacteria contribute to plant secondary compound degradation in a generalist herbivore system. (*Submitted* - preprint available DOI: 10.1101/865212)  
+
 Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & Nou, X. (2016). Ralstonia insidiosa serves as bridges in biofilm formation by foodborne pathogens Listeria monocytogenes, Salmonella enterica, and Enterohemorrhagic Escherichia coli. Food Control, 65, 14–20.
 
 ## Oral Presentations
@@ -94,7 +96,7 @@ Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & N
 
 ## Teaching & Mentoring ##
 ### Currie Lab ###
->`2018-Present`**Olivia Panthofer:** Undergraduate Student. Isolation of phage from fungus gardens.  
+>`2018-Present`**Olivia Panthofer:** Undergraduate Research Scholar. Isolation of phage from fungus gardens.  
 >`Summer 2018`**Jennifer Koehler:** REU student. Lipid Production of *Streptomyces* on Conversion Residue.  
 >`January 2018` **Donny Hoang:** MDTP rotation student. Inhibition of *Escovopsis* by *Burkholderia*.  
 >`2017-2018` **Josh Daniels:** Undergraduate student. Investigation of Bee-Associated *Streptomyces* species and their ability to produce lipids.    
@@ -108,7 +110,7 @@ Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & N
 **Undergraduate Teaching Assistant** `January 2016 - May 2016` 
 >Teacher's assistant for Research Applications in the Life Sciences (HLSC377). Duties included weekly office hours, grading assignments, and aiding discussions about scientific papers
 
-## Awards and Grants 
+## Awards & Grants 
 1.`August 2019` O.N. Allen Soil and Environmental Microbiology Small Grant Recipient, $4000  
 
 2.`June 2019` UW-Madison Student Research Travel Grant - Conference, $1200
@@ -138,7 +140,7 @@ Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & N
 **Alternative Spring Break-Chesapeake Bay** `Spring Break 2013`
 > Engaged in tree planting, urban farming, river clean up and oyster restoration
 
-## Organizations/Committees
+## Organizations & Committees
 **MDTP Steering Committee** `2019-Present`  
 > Attend monthly faculty meeting to give voice to students' concerns and opinions  
 
